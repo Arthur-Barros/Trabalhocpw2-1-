@@ -1,0 +1,162 @@
+@font-face {
+  font-family: "Padrao";
+  src: url(../fonts/Roboto-Regular.ttf);
+}
+@font-face {
+  font-family: "Decorativa";
+  src: url(../fonts/Galada-Regular.ttf);
+}
+body {
+  margin: 0px;
+}
+
+#header {
+  display: table;
+  background-color: #08bfc6;
+  padding: 5px 0px 5px 0px;
+  text-align: center;
+  font-size: 150%;
+  font-family: "Decorativa";
+  width: 100%;
+}
+#header .calibragem {
+  display: table-cell;
+  width: 33%;
+}
+#header a {
+  width: 33%;
+  display: table-cell;
+  margin: 10px;
+}
+#header img {
+  vertical-align: middle;
+  padding: 10px 0px 10px 10px;
+}
+
+#conteudo {
+  display: block;
+}
+
+#conteiner {
+  text-align: center;
+}
+#conteiner .botao_exercicio {
+  font-size: 200%;
+  border: 1px solid black;
+  padding: 20px 0px 20px 0px;
+  margin: 20px;
+  color: white;
+  background-color: #0066ff;
+  font-family: "Padrao";
+}
+#conteiner a:link {
+  text-decoration: none;
+}
+
+#conteinerFormulario {
+  border: 1px solid black;
+  padding: 10px;
+  width: 80%;
+  margin: 0px auto;
+  margin-top: 20px;
+  border-radius: 5px;
+  font-family: "Padrao";
+}
+#conteinerFormulario * {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+#conteinerFormulario label {
+  font-family: "Padrao";
+  font-size: 120%;
+}
+#conteinerFormulario input {
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #cccccc;
+  font-size: 100%;
+  width: 70%;
+  max-width: 400px;
+  display: block;
+}
+#conteinerFormulario button {
+  font-weight: bold;
+  padding: 10px;
+  color: white;
+  background-color: #0080ff;
+  font-size: 100%;
+}
+
+#conteudoResultado {
+  width: 100%;
+  margin: 0px auto;
+  margin-top: 30px;
+  font-family: "Padrao";
+  text-align: center;
+}
+#conteudoResultado #resultado {
+  width: 80%;
+  margin: 0px auto;
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#calculadora {
+  display: table;
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 80%;
+  font-family: "Padrao";
+  text-align: center;
+  margin: 0px auto;
+  margin-top: 20px;
+}
+#calculadora .linhas {
+  display: table-row;
+}
+#calculadora .botaoCaluladora {
+  width: 80px;
+}
+#calculadora label {
+  font-family: "Padrao";
+  font-size: 120%;
+}
+#calculadora * {
+  padding: 10px;
+}
+#calculadora input {
+  display: block;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #cccccc;
+  font-size: 100%;
+  margin: auto;
+  margin-bottom: 10px;
+  background-color: #f7ffcf;
+}
+#calculadora button {
+  font-weight: bold;
+  font-size: 100%;
+  color: white;
+  background-color: black;
+  margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+  #conteinerFormulario input {
+    width: 80%;
+  }
+  #conteinerFormulario button {
+    width: 80%;
+  }
+
+  #calculadora input {
+    width: 80%;
+  }
+  #calculadora .botaoCaluladora {
+    width: 20%;
+  }
+}
+
+/*# sourceMappingURL=estilos.css.map */
