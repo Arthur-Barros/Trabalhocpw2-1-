@@ -46,6 +46,7 @@ Exercício 02: De acordo com a frase que digitar ele retorna a inversão das pal
 Exercício 03: De acordo com o número que digitar ele retorna o respectivo como binário.
 Exercício 04: De acordo com a altura e peso que digitar, ele retorna se está acima, normal ou abaixo do peso, referente aquela altura.
 Exercício 05: Uma Calculadora, algumas funcionalidades precisa melhorar, mas as básicas funciona tranquilo.
+    
 ---
 
 ## Tecnologias utilizadas
