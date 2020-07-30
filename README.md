@@ -2,7 +2,7 @@
 Trabalho realizado para disciplina Construção de Páginas Web
 </h1>
 
-### Visualização
+### :movie_camera: Visualização
 **Exercício01**
 <h1>
   <img src="https://ik.imagekit.io/xlj9cejf8v/exercicio01fibonaci_lDsFyUkeN.gif" alt="Exercício01">
@@ -28,17 +28,17 @@ Trabalho realizado para disciplina Construção de Páginas Web
   <img src="https://ik.imagekit.io/xlj9cejf8v/exercicio05_N4_rpljfh.gif" alt="Exercício05">
 </h1>
 
-# Hospedagem do site
+# :hotel: Hospedagem do site
 [Exercícios](https://trabalhocpw2-1.firebaseapp.com/index.html)
 
 ---
 
-## Indice
+## :computer: Indice
 - [Sobre](#sobre) | [Tecnologias utilizadas](#tecnologias-utilizadas) | [Como utilizar](#como-utilizar) | [Como rodar a aplicação](#como-rodar-a-aplicação)
 
 ---
 
-## Sobre
+## :bookmark: Sobre
 Foi desenvolvido com o objetivo de aprender os conceitos ensinados na aula da disciplina Construção de Página Web.
 
 - Exercício 01: De acordo com a quantidade de elementos ele me retorna a sequência de fibonacci referente a quantidade.
@@ -49,7 +49,7 @@ Foi desenvolvido com o objetivo de aprender os conceitos ensinados na aula da di
     
 ---
 
-## Tecnologias utilizadas
+## :rocket: Tecnologias utilizadas
 
 o projeto foi desenvolvido usando as seguintes tecnologias
 
@@ -60,12 +60,12 @@ o projeto foi desenvolvido usando as seguintes tecnologias
 
 ---
 
-## Como utilizar
+## :electric_plug: Como utilizar
 Para executar essa aplicação você vai precisar dos seguintes softwares instalados em seu computador:
 - [NodeJs](https://nodejs.org/en/)
 - [Git](https://git-scm.com/)
 
-## Como rodar a aplicação
+## :file_folder: Como rodar a aplicação
 
 ```bash
 # Clonar repositório
@@ -80,4 +80,4 @@ $ Baixar a extensão no VsCode, e depois clicar encima do html e open Live Sever
 ```
 ---
 
-Desenvolvido por **Arthur Barros** [Entre em contato](https://www.linkedin.com/in/arthur-barros-/)
+Desenvolvido por :purple_heart: **Arthur Barros** :email: [Entre em contato](https://www.linkedin.com/in/arthur-barros-/)
